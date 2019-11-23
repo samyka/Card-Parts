@@ -1,0 +1,16 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+workspace 'CardParts'
+
+target 'CardParts_Example' do
+    pod 'CardParts', :path => '../'
+end
+
+target 'CardParts_Tests' do
+    pod 'CardParts', :path => '../'
+    
+    inherit! :search_paths
+end
+
