@@ -3,9 +3,9 @@
 CardParts is the second generation Card UI framework for the iOS Mint application. This version includes many updates to the original card part framework, including improved MVVM, data binding (via [RxSwift](https://github.com/ReactiveX/RxSwift)), use of stack views and self sizing collection views instead sizing cells, 100% swift and much more. The result is a much simpler, easier to use, more powerful, and easier to maintain framework. This framework is currently used by the iOS Mint application and the iOS Turbo application.
 
 <div align="center">
-    <img src="https://github.com/samyka/Card-Part/blob/master/screenshots/mintsights.gif" width="290"/>
-    <img src="https://github.com/samyka/Card-Part/blob/master/screenshots/mintCardParts.gif" width="290"/>
-    <img src="https://github.com/samyka/Card-Part/blob/master/screenshots/turboCardParts.gif" width="290"/>
+    <img src="https://github.com/samyka/Card-Parts/blob/master/screenshots/mintsights.gif" width="290"/>
+    <img src="https://github.com/samyka/Card-Parts/blob/master/screenshots/mintCardParts.gif" width="290"/>
+    <img src="https://github.com/samyka/Card-Parts/blob/master/screenshots/turboCardParts.gif" width="290"/>
 </div>
 
 CardParts - made with ❤️ by Intuit:
